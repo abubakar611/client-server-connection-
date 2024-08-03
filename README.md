@@ -68,14 +68,8 @@ s.connect((host_ip, port))
 print(f'Socket has successfully connected to Github on port == {host_ip}')
 ```
 
-## Contributing
-
+##Contributing
 Contributions are welcome! Please open an issue or submit a pull request if you have any improvements or bug fixes.
 
-## Contact
-
-For any questions or further information, please contact [abubakarjunaid611@gmail.com](mailto:abubakarjunaid611@gmail.com).
-
----
-
-This README provides a clear and structured overview of your client-server connection project, including setup instructions, features, and usage guidelines. Feel free to adjust the content as needed to match your specific project details.
+Contact
+For any questions or further information, please contact abubakarjunaid611@gmail.com.
